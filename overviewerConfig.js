@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1635678860",
+        "cacheTag": "1642236299",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,21 +51,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - overworld",
-            "last_rendertime": 1635678613,
+            "last_rendertime": 1642234659,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "minZoom": 0,
             "spawn": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "north_direction": 0
         },
@@ -78,21 +78,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - overworld",
-            "last_rendertime": 1635678613,
+            "last_rendertime": 1642234659,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "minZoom": 0,
             "spawn": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "north_direction": 0
         },
@@ -105,15 +105,15 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - nether",
-            "last_rendertime": 1635334252,
+            "last_rendertime": 1642056411,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "minZoom": 0,
             "spawn": false,
@@ -134,9 +134,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                16,
-                96,
-                32
+                53,
+                115,
+                6
             ],
             "minZoom": 0,
             "spawn": false,
