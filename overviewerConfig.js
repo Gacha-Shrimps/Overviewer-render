@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1642236299",
+        "cacheTag": "1657624164",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,7 +51,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - overworld",
-            "last_rendertime": 1642234659,
+            "last_rendertime": 1657609499,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -61,6 +61,7 @@ var overviewerConfig = {
                 115,
                 6
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 53,
@@ -78,7 +79,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - overworld",
-            "last_rendertime": 1642234659,
+            "last_rendertime": 1657609499,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -88,6 +89,7 @@ var overviewerConfig = {
                 115,
                 6
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 53,
@@ -105,7 +107,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#000000",
             "world": "Gacha Shrimps - nether",
-            "last_rendertime": 1642056411,
+            "last_rendertime": 1650805378,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -115,6 +117,7 @@ var overviewerConfig = {
                 115,
                 6
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
             "north_direction": 0
@@ -138,6 +141,7 @@ var overviewerConfig = {
                 115,
                 6
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
             "north_direction": 0
